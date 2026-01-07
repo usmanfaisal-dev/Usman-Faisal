@@ -6,8 +6,8 @@
 ---
 
 ### 🧠 Skills
-- Python | NumPy | Pandas | Matplotlib | Seaborn  
-- OpenCV | Data Cleaning | Feature Engineering  
+- Python | NumPy | Pandas | Matplotlib | Seaborn | ML | DL | NLP
+- OpenCV | Data Cleaning | Feature Engineering  | FastAPI 
 - Jupyter Notebooks | Git & GitHub  
 
 ---
