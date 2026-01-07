@@ -13,8 +13,11 @@
 ---
 
 ### 📂 Featured Projects
-- [🚢 Titanic Data Analysis](https://github.com/<usmanfaisal-dev>/titanic-data-analysis)
-- (Add more soon...)
+- [🚢 Titanic Data Analysis](https://github.com/usmanfaisal-dev/titanic-data-analysis)
+- [🚢 House Price Prediction by Linear Regression](https://github.com/usmanfaisal-dev/Linear-Regression-Model)
+- [🚢 Brain Tumor Classification by CNN](https://github.com/usmanfaisal-dev/Brain_Tumor_Classification)
+- [🚢 FastAPI Project](https://github.com/usmanfaisal-dev/fastapi-blog)
+- 
 
 ---
 
